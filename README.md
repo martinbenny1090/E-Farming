@@ -1,2 +1,2 @@
 # E-Farming
-This is my new project on django
+This is a sample project to host in github by Django Framework
